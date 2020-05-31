@@ -1,1 +1,1 @@
-regression algo's are in this repo.
+Machine learning classifiers.
